@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    padding: 20px 0;
+    .headerTitle{
+        text-align: center;
+        flex: 1;
+    }
+}
+.contentBlock{
+    padding: 80px 0;
+}
