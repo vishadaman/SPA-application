@@ -1,4 +1,3 @@
-// src/components/PhotoList.tsx
 import React, { useEffect, useState, useCallback } from 'react';
 import axios from 'axios';
 import PhotoItem from './PhotoItem';
